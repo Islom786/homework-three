@@ -1,0 +1,216 @@
+
+.hero-nav-logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+.hero-nav-list {
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.hero-nav-item {
+    display: inline-block;
+}
+.hero-nav-link {
+    text-decoration: none;
+    color: #1F1534;
+    opacity: 0.5;
+    font-size: 18px;
+}
+.hero-bottom-left {
+    width: 445px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.hero-main-heading {
+    font-size: 48px;
+}
+.hero-main-text {
+    color: #7D7987;
+    font-size: 21px;
+}
+.hero-bottom-btn {
+    display: inline-block;
+    background-color: #458FF6;
+    color: #fff;
+    border-radius: 55px;
+    text-decoration: none;
+    width: 200px;
+    height: 56px;
+    font-size: 18px;
+    text-align: center;
+}
+.hero-bottom-right {
+    display: inline-block;
+    vertical-align: middle;
+}
+.services-title {
+    font-size: 36px;
+    text-align: center;
+}
+.services-line {
+    width: 56px;
+    height: 2px;
+    background-color: black;
+    border-radius: 6px;
+}
+.services-text {
+    font-size: 18px;
+    color: #7D7987;
+    text-align: center;
+    width: 952px;
+    vertical-align: middle;
+}
+.services-list {
+    list-style: none;
+    display: inline-block;
+    background-color: #F3F7FF;
+    vertical-align: middle;
+}
+.services-item {
+    display: inline-block;
+    width: 350px;
+    border-radius: 5px;
+    background-color: white;
+    border-radius: 20px;
+    vertical-align: middle;
+}
+.services-item h3 {
+    font-size: 24px;
+}
+.services-item p {
+    font-size: 16px;
+    color: #7D7987;
+    width: 262px;
+}
+.services-link {
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #458FF6;
+    border-radius: 55px;
+    border: 1px solid;
+    text-align: center;
+}
+.card-list {
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.card-item {
+    display: inline-block;
+    vertical-align: middle;
+}
+.text {
+    width: 420px;
+}
+.card-item h2 {
+    font-size: 36px;
+}
+.card-item hr {
+    width: 56px;
+    height: 2px;
+    background-color: black;
+    border-radius: 6px;
+}
+.card-item a {
+    display: inline-block;
+    width: 200px;
+    height: 56px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #458FF6;
+    border-radius: 55px;
+    border: 1px solid;
+    text-align: center;
+}
+.saying {
+    background-color: #5A98F2;
+    color: #fff;
+    border-radius: 24px;
+}
+.saying-title {
+    font-size: 36px;
+    text-align: center;
+}
+.saying-line {
+    width: 56px;
+    height: 2px;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 6px;
+}
+.saying-person {
+    display: inline-block;
+    vertical-align: middle;
+}
+.saying-person-left {
+    display: inline-block;
+    vertical-align: middle;
+}
+.saying-person-left img {
+    display: inline-block;
+    vertical-align: middle;
+}
+.saying-person-left div {
+    display: inline-block;
+    vertical-align: middle;
+}
+.saying-person-left div h3 {
+    font-size: 22px;
+}
+.saying-person-left div p {
+    font-size: 18px;
+}
+.saying-person-right {
+    display: inline-block;
+    width: 420px;
+    vertical-align: middle;
+}
+.article-title {
+    font-size: 36px;
+    text-align: center;
+}
+.article-line {
+    width: 56px;
+    height: 2px;
+    background-color: black;
+    text-align: center;
+    border-radius: 5px;
+}
+.article-list {
+    display: inline-block;
+    list-style: none;
+    vertical-align: middle;
+}
+.article-item {
+    display: inline-block;
+    width: 350px;
+    vertical-align: middle;
+    align-items: center;
+}
+.article-item h3 {
+    font-size: 21px;
+}
+.article-item p {
+    font-size: 16px;
+    color: #7D7987;
+}
+.article-item a {
+    text-decoration: none;
+    font-size: 17px;
+    color: #4089ED;
+}
+.article-link {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 18px;
+    color: #4089ED;
+    text-align: center;
+    width: 200px;
+    height: 56px;
+    border: 1px solid;
+    border-radius: 55px;
+}
